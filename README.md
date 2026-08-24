@@ -6,7 +6,8 @@ Welcome to my portfolio guide! Here, you will find a summary of my data projects
 
 - [Excel](#excel)  
 - [SQL](#sql)
-- [Power BI](#power-bi) 
+- [Power BI](#power-bi)
+- [Python](#python)
 
 ## Excel
 
@@ -28,3 +29,8 @@ Welcome to my portfolio guide! Here, you will find a summary of my data projects
 | [Road Casualties Analysis Dashboard](https://github.com/scarletthurford/Road-Casualties-Analysis) | Data cleaning, data modelling, DAX measures, visualisation | An interactive dashboard analysing UK road accident data (2021–2022) to identify key predictors of casualty severity, with recommendations to support road safety improvements. |
 
 
+## Python
+
+| Project | Analytical Workflow | Description | Libraries |
+| ----------------- |  ----------------- | ----------------- | ----------------- |
+| [Significant Earthquakes Analysis](https://github.com/scarletthurford/Earthquake-EDA/blob/main/README.md)| Data wrangling, EDA | An exploratory analysis of global earthquake data from 1900–2026, investigating patterns in magnitude, depth, geographic distribution, and frequency over time to better understand seismic activity trends and identify tectonic hotspots. | pandas, matplot, seaborn, plotly | 
